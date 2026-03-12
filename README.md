@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vansh+Madaan;Software+Engineer;Full+Stack+Developer;400%2B+DSA+Problems+Solved;React+%7C+Node+%7C+ASP.NET+Core" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Vansh+Madaan;Software+Engineer;Full+Stack+Developer;400%2B+DSA+Problems+Solved;React+%7C+Node+%7C+ASP.NET+Core"/>
 </h1>
+
+<h3 align="center">
+🚀 Software Engineer | 💻 Full Stack Developer | 🧠 DSA Enthusiast
+</h3>
 
 <p align="center">
 
@@ -30,13 +34,13 @@
 
 # 🚀 About Me
 
-💡 Software Engineer passionate about building **scalable, high-performance web applications**.
+💡 Passionate **Software Engineer** who loves building **scalable, high-performance web applications** and solving complex problems.
 
-- 💻 **Full Stack Developer (MERN + ASP.NET Core)**
-- 🧠 Solved **400+ DSA Problems**
-- ⚡ Strong interest in **Backend Engineering**
-- 📚 Currently learning **Microservices & System Design**
-- 🚀 Building **scalable real-world applications**
+✔ 💻 **Full Stack Developer (MERN + ASP.NET Core)**  
+✔ 🧠 Solved **400+ Data Structures & Algorithms problems**  
+✔ ⚡ Strong focus on **Backend Engineering**  
+✔ 📚 Currently learning **Microservices & System Design**  
+✔ 🚀 Building **real-world scalable applications**
 
 ---
 
@@ -61,7 +65,9 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
 </p>
 
 ---
@@ -70,9 +76,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vansh-13&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vansh-13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-13&layout=compact&theme=tokyonight&hide_border=true&title_color=00C2FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -81,15 +87,19 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Vansh-13&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Vansh-13&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-13&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -97,7 +107,9 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
+
 <img src="https://leetcard.jacoblin.cool/a7I38nD3tC?theme=dark&font=Baloo&ext=heatmap"/>
+
 </p>
 
 ---
@@ -107,23 +119,23 @@
 <p align="center">
 
 <a href="https://github.com/Vansh-13/JobWorld">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=JobWorld&theme=tokyonight&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=JobWorld&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Vansh-13/xeno_crm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=xeno_crm&theme=tokyonight&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=xeno_crm&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Vansh-13/Foodzone2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Foodzone2&theme=tokyonight&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Foodzone2&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Vansh-13/AI_Safety_Incident">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=AI_Safety_Incident&theme=tokyonight&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=AI_Safety_Incident&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Vansh-13/Portfolieo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Portfolieo&theme=tokyonight&cache_seconds=1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Portfolieo&theme=tokyonight"/>
 </a>
 
 </p>
@@ -133,7 +145,9 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Vansh-13/Vansh-13/blob/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/Vansh-13/Vansh-13/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -146,10 +160,10 @@ https://vanshmadaan-dev.netlify.app
 
 ---
 
-# ⭐ Philosophy
+# ⭐ Developer Philosophy
 
 > **Code • Learn • Build • Improve • Repeat 🚀**
 
 <p align="center">
-Designed with ❤️ by Vansh Madaan
+Designed with ❤️ by <b>Vansh Madaan</b>
 </p>
