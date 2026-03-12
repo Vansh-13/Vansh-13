@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Madaan</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | 💻 Full Stack Developer | 🧠 DSA Enthusiast
+🚀 Software Engineer | 💻 Full Stack Developer | 🧠 DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -20,61 +20,50 @@
 
 # 🚀 About Me
 
-💡 Passionate about building **scalable and efficient software systems**
+💡 Passionate about building **scalable and high-performance software systems**
 
 - 💻 **Full Stack Developer**
-- 🧠 **400+ DSA Problems Solved** (LeetCode + GeeksforGeeks)
-- ⚡ Strong interest in **System Design & Backend Engineering**
-- 📚 Currently learning **ASP.NET Core, Microservices & Distributed Systems**
-- 🚀 Focused on building **high-performance scalable applications**
+- 🧠 **400+ DSA Problems Solved**
+- ⚡ Strong focus on **Backend Engineering**
+- 📚 Learning **ASP.NET Core, Microservices & System Design**
+- 🚀 Building **Scalable Web Applications**
 
 ---
 
-# 🧠 Problem Solving Journey
+# 🧠 Problem Solving
 
-💻 Platforms  
+📊 **Achievements**
 
-- 🔹 **LeetCode**
-- 🔹 **GeeksforGeeks**
+- ✅ 400+ Problems Solved  
+- ✅ Strong in Data Structures & Algorithms  
 
-📊 Achievements
+📚 **Core Topics**
 
-- ✅ **400+ DSA Problems Solved**
-- ✅ Strong grip on **Data Structures & Algorithms**
-
-📚 Key Topics
-
-- Arrays
-- Linked Lists
-- Trees & Binary Trees
-- Graph Algorithms
-- Dynamic Programming
-- Greedy Algorithms
-- Recursion & Backtracking
-- System Design Basics
+- Arrays  
+- Linked Lists  
+- Trees  
+- Graph Algorithms  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Recursion & Backtracking  
 
 ---
 
 # 💻 Tech Stack
 
 ### 🚀 Languages
-
 `Java` `JavaScript` `SQL`
 
-### ⚡ Frontend Development
-
+### ⚡ Frontend
 `HTML` `CSS` `JavaScript` `React`
 
-### 🔧 Backend Development
-
+### 🔧 Backend
 `Node.js` `Express.js` `ASP.NET Core`
 
-### 🗄 Databases
-
+### 🗄 Database
 `MySQL` `SQL Server`
 
-### 🛠 Dev Tools
-
+### 🛠 Tools
 `Git` `GitHub` `GitLab` `Docker` `VS Code`
 
 ---
@@ -84,18 +73,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,dotnet,html,css,mysql,git,github,docker,vscode&perline=6" />
 </p>
-
----
-
-# 📈 Current Focus
-
-🚀 Improving expertise in
-
-- Advanced **Data Structures & Algorithms**
-- **System Design**
-- **Backend Engineering**
-- **Scalable Web Applications**
-- **Microservices Architecture**
 
 ---
 
@@ -111,10 +88,18 @@
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Vansh-13&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-13&theme=tokyo-night"/>
 </p>
 
 ---
@@ -163,6 +148,4 @@
 
 # ⭐ Philosophy
 
-> **Code. Learn. Build. Improve. Repeat.**
-
-🚀 *Always learning, building, and solving real-world problems through code.*
+> Code • Learn • Build • Improve • Repeat 🚀
