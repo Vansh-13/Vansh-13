@@ -112,10 +112,10 @@
 
 ---
 
-# 🌌 GitHub Contribution Summary
+# 🌌 Contribution Calendar Animation
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-13&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vansh-13&theme=tokyonight"/>
 </p>
 
 ---
@@ -124,6 +124,50 @@
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/a7I38nD3tC?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 🌐 Portfolio
+
+🌎 **Live Portfolio**
+
+https://vanshmadaan-dev.netlify.app
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Vansh-13/JobWorld">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=JobWorld&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Vansh-13/xeno_crm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=xeno_crm&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Vansh-13/Foodzone2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Foodzone2&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Vansh-13/AI_Safety_Incident">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=AI_Safety_Incident&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Vansh-13/Portfolieo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Portfolieo&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
