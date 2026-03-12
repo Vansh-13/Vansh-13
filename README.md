@@ -104,6 +104,22 @@
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 🌌 GitHub Contribution Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-13&theme=tokyonight"/>
+</p>
+
+---
+
 # 🧠 LeetCode Stats
 
 <p align="center">
@@ -148,4 +164,4 @@
 
 # ⭐ Philosophy
 
-> Code • Learn • Build • Improve • Repeat 🚀
+> **Code • Learn • Build • Improve • Repeat 🚀**
