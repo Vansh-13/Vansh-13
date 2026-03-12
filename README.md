@@ -107,15 +107,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 🌌 Contribution Calendar Animation
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vansh-13&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -148,10 +140,6 @@ https://vanshmadaan-dev.netlify.app
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=xeno_crm&theme=tokyonight"/>
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/Vansh-13/Foodzone2">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Foodzone2&theme=tokyonight"/>
 </a>
@@ -159,10 +147,6 @@ https://vanshmadaan-dev.netlify.app
 <a href="https://github.com/Vansh-13/AI_Safety_Incident">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=AI_Safety_Incident&theme=tokyonight"/>
 </a>
-
-</p>
-
-<p align="center">
 
 <a href="https://github.com/Vansh-13/Portfolieo">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vansh-13&repo=Portfolieo&theme=tokyonight"/>
