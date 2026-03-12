@@ -1,152 +1,90 @@
-<h1 align="center">Hi 👋, I'm Vansh Madaan</h1>
-
-<h3 align="center">
-Aspiring Software Engineer | Full Stack Developer (React, Node, Express, SQL) |
-JavaScript & DSA Enthusiast | System Design Learner
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Vansh+Madaan;Software+Engineer;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Problem+Solver;React+%7C+Node+%7C+ASP.NET+Core;Always+Learning+New+Technologies" />
+  <a href="https://www.linkedin.com/in/vansh-madaan12">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/a7I38nD3tC/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="mailto:madaanvansh68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 👨‍💻 Coding Mode
-
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=Vansh-13&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Vansh-13" />
 </p>
 
 ---
 
 ## 🚀 About Me
+I am a **Software Engineer** passionate about building scalable web applications and solving complex algorithmic challenges. Currently, I am bridging the gap between **Full-Stack Development** and **Cloud-Native Architecture**.
 
-- 💻 **Aspiring Software Engineer & Full Stack Developer**
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 📊 Solved **400+ DSA Problems** on **LeetCode & GeeksforGeeks**
-- ⚡ Passionate about **Problem Solving & System Design**
-- 🚀 Interested in building **Scalable and Efficient Applications**
-- 📚 Currently learning **ASP.NET Core, Microservices & System Design**
-- 🔧 Exploring **Docker, DevOps & Distributed Systems**
+- 🔭 **Focusing on:** Microservices & System Design.
+- 🧪 **Problem Solving:** 400+ Solved problems across LeetCode & GFG.
+- ⚡ **Fun Fact:** I enjoy breaking down complex systems into modular, reusable components.
+- 💬 **Ask me about:** React, Node.js, and why I prefer SQL for structured data.
 
 ---
 
-## 🧠 Problem Solving
+## 🛠 Tech Stack & Tools
 
-- 🔹 **LeetCode + GeeksforGeeks:** 400+ problems solved  
-- 🔹 Core Topics:
-  - Arrays
-  - Linked Lists
-  - Trees & Binary Trees
-  - Graph Algorithms
-  - Dynamic Programming
-  - Greedy Algorithms
-  - Recursion & Backtracking
-  - System Design Basics
+### 🌐 Frontend & Design
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+</p>
 
----
+### ⚙️ Backend & Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,java,mysql,postgres,mongodb" />
+</p>
 
-## 💻 Tech Stack
-
-### 🚀 Languages
-`Java` `JavaScript` `SQL`
-
-### ⚡ Frontend
-`HTML` `CSS` `JavaScript` `React`
-
-### 🔧 Backend
-`Node.js` `Express.js` `ASP.NET Core`
-
-### 🗄 Database
-`MySQL` `SQL Server`
-
-### 🛠 Tools & DevOps
-`Git` `GitHub` `GitLab` `Docker` `VS Code`
-
----
-
-## 🛠 Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,dotnet,html,css,mysql,git,github,docker,vscode" />
+### ☁️ DevOps & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
 </p>
 
 ---
 
-## 📈 Current Focus
-
-- 🔹 Advanced **Data Structures & Algorithms**
-- 🔹 **System Design**
-- 🔹 **Backend Development**
-- 🔹 **Scalable Web Applications**
-- 🔹 **Microservices Architecture**
-
----
-
-## 📊 GitHub Stats
+## 🏆 Achievements & Coding Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vansh-13&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vansh-13&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vansh-13&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-13&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vansh-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## 🧠 LeetCode Insights
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Vansh-13&theme=tokyonight"/>
+  <img src="https://leetcard.jacoblin.cool/a7I38nD3tC?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
 
-## 🚀 Most Used Languages
-
+## 🐍 Contribution Activity
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-13&layout=compact&theme=tokyonight"/>
+  <img src="https://github.com/Vansh-13/Vansh-13/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
----
-
-## 🧠 LeetCode Stats
-
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/a7I38nD3tC?theme=dark&font=Baloo&ext=heatmap"/>
+  <b>Let's build something amazing together!</b><br>
+  <sub>"The best way to predict the future is to code it."</sub>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://leetcode.com/u/a7I38nD3tC/">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-<a href="mailto:madaanvansh68@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vansh-madaan12">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vansh-13&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Vansh-13/Vansh-13/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ **Always learning, building, and solving real-world problems through code.**
